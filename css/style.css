@@ -239,7 +239,8 @@ ul#navigation li:hover {
 	margin: 0 auto;
 }
 
-.home-container h1, h4 {
+.home-container h1,
+.home-container h4 {
 	font-family: 'BlanchCapsInline', arial;
 	color: #fff;
 	margin: 0;
