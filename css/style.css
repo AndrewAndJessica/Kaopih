@@ -34,7 +34,9 @@
 
 /* FONT & TEXT STYLES */
 
-
+.test {
+    background: #fff;
+}
 
 h1 {
 	padding:0;
