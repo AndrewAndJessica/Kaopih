@@ -647,7 +647,10 @@ ul#navigation li:hover {
 .info-content h2{
 	margin-left:0;
 	margin-bottom:30px;
+	margin-top: 0;
 	color:rgb(248,191,84);
+	font-size: 35px;
+	line-height: 35px;
 }
 .info-content h3{
 	margin:0;
