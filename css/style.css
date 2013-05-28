@@ -1077,7 +1077,7 @@ ul#navigation li:hover {
 .gifts {
 	height:100%;
 	position: relative;
-	background-color: rgb(144,234,213);
+	background-color: rgb(232,86,107);
 }
 
 .gifts .content-box{
@@ -1122,7 +1122,7 @@ ul#navigation li:hover {
 .registry span {
 	position: absolute;
 	top: 0; left: 0; bottom: 0; right: 0;
-	background-color: rgb(144,234,213);
+	background-color: rgb(232,86,107);
 	background: url(../images/wsonoma.jpg) no-repeat;
 	background-position: -282px 0;
 	opacity: 0;
