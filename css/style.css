@@ -350,49 +350,51 @@ ul#navigation li:hover {
 	position:relative;
 	display:block;
 	overflow:auto;
-	margin-top:40px;
-	height:340px;
+	margin-top:10px;
+	height:420px;
 	background: url(../images/arrow.png) no-repeat;
 	background-position: 0px 0px;
 }
 
 .first {
-	margin-left:100px;
-	margin-top:5px;
+	left:70px;
 }
 
 .second {
-	margin-left:10px;
-	margin-top:88px;
+	left:170px;
 }
 
 .third {
-	margin-left:50px;
-	margin-top:5px;
+	left:300px;
 }
 
 .fourth {
-	margin-left:30px;
-	margin-top:88px;
+	left:450px;
 }
 
 .fifth {
-	margin-left:50px;
-	margin-top:42px;
+	left:540px;
 }
 
 .sixth {
-	margin-left:120px;
-	margin-top:42px;
+	left:630px;
 }
 .seventh {
-	margin-left:60px;
-	margin-top:42px;
+	left:720px;
+}
+.eighth {
+	left:810px;
+}
+
+.highlights {
+	position: absolute;
+	left: 0;
+	right: 0;
 }
 
 .heart {  
 	display:block;
-	position: relative;
+	position: absolute;
 	text-indent: -9999px;
 	width: 45px;
 	height: 44px;
@@ -414,7 +416,8 @@ ul#navigation li:hover {
 }
 
 .coral {
-	background-position: 0 0;	
+	background-position: 0 0;
+	top:88px;
 }
 
 .coral span {
@@ -423,6 +426,7 @@ ul#navigation li:hover {
 
 .mint {
 	background-position: 0 -44px;
+	top:5px;
 }
 
 .mint span {
@@ -431,6 +435,7 @@ ul#navigation li:hover {
 
 .combined {
 	background-position: 0 -88px;
+	top:42px;
 }
 
 .combined span {
@@ -450,8 +455,8 @@ ul#navigation li:hover {
     margin-right: auto;
     left: 0;
     right: 0;
-  	width:550px;
-  	top:90px;
+  	width:700px;
+  	top:110px;
 	text-align: center;
 	opacity: 0;
 	filter:alpha(opacity=0);
@@ -468,6 +473,11 @@ ul#navigation li:hover {
 .highlights h4 span{
 	font-size: 40px;
 	line-height: 40px;
+}
+
+.highlights h4.small {
+	font-size: 28px;
+	line-height: 23px;
 }
 
 /* PICTURES SLIDE */
@@ -505,7 +515,7 @@ ul#navigation li:hover {
 	display:block;
 	overflow:auto;
 	margin-top:15px;
-	width:534px;
+	width:564px;
 	height:125px;
 	margin-left: auto;
     margin-right: auto;
@@ -741,6 +751,16 @@ ul#navigation li:hover {
 	color: rgb(0,138,160);
 	text-shadow: rgb(0,138,160) 0 0 0;
 }
+
+.people-details {
+	width: 600px;
+	padding: 0 30px;
+	text-align: center;
+}
+
+.people-details h4 {
+	margin: 10px 0;
+}
 .groomsmen{
 	display:block;
 	position:relative;
@@ -862,8 +882,8 @@ ul#navigation li:hover {
 }
 
 .rsvp .content-box{
-	height:475px; 
-	margin-top:-270px;
+	height:600px; 
+	margin-top:-350px;
 	}
 
 .rsvp-title {  
@@ -889,6 +909,15 @@ ul#navigation li:hover {
 	width:780px;
 	height:240px;
 }
+
+.rsvp-frame {
+	width: 785px;
+	height: 560px;
+	margin: 0 auto;
+	display: block;
+	overflow: none;
+}
+
 .labels {
 	position:relative;
 	float:left;
