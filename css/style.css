@@ -456,7 +456,7 @@ ul#navigation li:hover {
     left: 0;
     right: 0;
   	width:700px;
-  	top:110px;
+  	top:100px;
 	text-align: center;
 	opacity: 0;
 	filter:alpha(opacity=0);
@@ -476,8 +476,8 @@ ul#navigation li:hover {
 }
 
 .highlights h4.small {
-	font-size: 28px;
-	line-height: 23px;
+	font-size: 25px;
+	line-height: 20px;
 }
 
 /* PICTURES SLIDE */
@@ -778,7 +778,7 @@ ul#navigation li:hover {
 .bridesmaids{
 	display:block;
 	position:relative;
-	width:607px;
+	width:602px;
 	height:60px;
 	padding-top:15px;
 	margin-left:auto;
@@ -792,13 +792,13 @@ ul#navigation li:hover {
 	margin-top:15px;
 	margin-right:20px;
 	float:left;
+	width:180px;
 }
 
 .party-gallery {
 	position:relative;
 	display:block;
 	overflow:auto;
-	width:427px;
 	height:60px;
 }
 .wp {  
@@ -885,8 +885,8 @@ ul#navigation li:hover {
 }
 
 .rsvp .content-box{
-	height:600px; 
-	margin-top:-350px;
+	height:400px; 
+	margin-top:-230px;
 	}
 
 .rsvp-title {  
@@ -913,12 +913,26 @@ ul#navigation li:hover {
 	height:240px;
 }
 
-.rsvp-frame {
-	width: 785px;
-	height: 560px;
+.rsvp .buttons {
 	margin: 0 auto;
-	display: block;
-	overflow: none;
+	text-align: center;
+	margin-top: 60px;
+}
+
+.rsvp.btn{
+	padding: 10px 95px 10px 95px;
+	background-color:rgb(144,234,213);
+	color:#FFFFFF;
+}
+
+.rsvp.btn.guestbook {
+	padding-left: 55px;
+	padding-right: 55px;
+}
+
+.rsvp.btn:hover {
+	color: rgb(220,79,83);
+	background-color:#FFFFFF;
 }
 
 .labels {
@@ -1048,7 +1062,7 @@ ul#navigation li:hover {
 
 .questions{
 	clear:both;
-	margin-top:100px;
+	margin-top:60px;
 	text-align:center;
 }
 .questions a{
