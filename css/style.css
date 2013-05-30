@@ -320,7 +320,7 @@ ul#navigation li:hover {
 /* OUR STORY */
 
 .story {
-	background-color: rgb(115,215,255);
+	background-color: rgb(230,230,230);
 }
 
 .story .content-box{
@@ -614,7 +614,7 @@ ul#navigation li:hover {
 
 
 .info {
-	background-color: rgb(250,120,75);
+	background-color: rgb(220,79,83);
 }
 
 .info .content-box{
@@ -731,7 +731,7 @@ ul#navigation li:hover {
 
 
 .party {
-	background-color: rgb(240, 220, 40);
+	background-color: rgb(248,202,105);
 }
 
 .party .content-box{
@@ -881,7 +881,7 @@ ul#navigation li:hover {
 
 
 .rsvp {
-	background-color: rgb(1, 135, 255);
+	background-color: rgb(0, 138, 160);
 }
 
 .rsvp .content-box{
