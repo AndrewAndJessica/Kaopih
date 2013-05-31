@@ -831,16 +831,16 @@ ul#navigation li:hover {
 }
 
 .bridesmaids .one span {
-	background: url(../images/partythumb-sprite.png) -408px 0;
+	background: url(../images/partythumb-sprite.png) -255px 0;
 }
 .bridesmaids .two span {
-	background: url(../images/partythumb-sprite.png) -459px 0;
+	background: url(../images/partythumb-sprite.png) -306px 0;
 }
 .bridesmaids .three span {
-	background: url(../images/partythumb-sprite.png) -510px 0;
+	background: url(../images/partythumb-sprite.png) -357px 0;
 }
 .bridesmaids .four span {
-	background: url(../images/partythumb-sprite.png) -561px 0;
+	background: url(../images/partythumb-sprite.png) -408px 0;
 }
 
 /* RSVP */
