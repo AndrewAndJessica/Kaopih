@@ -229,11 +229,17 @@ ul#navigation li:hover {
 
 .home .content-box{
 	height:340px; 
-	margin-top:-187px;
+	margin-top:-207px;
 }
 
 .home-container {
 	width: 820px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.logo {
+	height: 80px;
 	margin: 0 auto;
 }
 
