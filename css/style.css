@@ -664,7 +664,8 @@ ul#navigation li:hover {
 	width:450px;
 	background:#bbbbbb;
 }
-.get-directions{
+.get-directions,
+.menu-cont{
 	clear:both;
 	margin-top:43px;
 	width:420px;
