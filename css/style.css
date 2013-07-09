@@ -702,12 +702,14 @@ ul#navigation li:hover {
 	color: rgb(220,79,83);
 	background-color:#FFFFFF;
 }
-.directions.btn{
+.directions.btn,
+.menu.btn{
 	padding: 10px 79px 10px 79px;
 	background-color:rgb(248,191,84);
 	color:#FFFFFF;
 }
-.directions.btn:hover {
+.directions.btn:hover,
+.menu.btn:hover{
 	color: rgb(220,79,83);
 	background-color:#FFFFFF;
 }
